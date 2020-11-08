@@ -1,11 +1,11 @@
 baseURL: "https://connortech.me"
-title: PaperMod
+title: Connor's Space
 paginate: 8
 theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-64319594-2
 
 minify:
   disableXML: true
@@ -17,7 +17,10 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Archives
+        - name: Photography Site
+          url: www.connorphoto.com
+          weight: 20
+        - name: Blog Archives
           url: /archives/
           weight: 5
         - name: Tags
@@ -26,8 +29,8 @@ languages:
 
 params:
   env: production
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "Simple website for Connor's thoughts"
+  author: Connor
   # author: ["Me", "You"] # multiple authors
   ShowReadingTime: true
   defaultTheme: auto
@@ -49,25 +52,23 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hello! \U0001F44B"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      Welcome to my space! Just a simple website to share my random thoughts and projects I am working on.
 
   socialIcons:
     - name: twitter
-      url: "#"
-    - name: stackoverflow
-      url: "#"
-    - name: codepen
-      url: "#"
+      url: "https://twitter.com/ConnorTech"
+    #- name: stackoverflow
+      #url: "#"
+    #- name: codepen
+      #url: "#"
     - name: linkedin
-      url: "#"
+      url: "https://www.linkedin.com/in/conradkoehler/"
     - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/ConnorKoehler"
     - name: buymeacoffee
-      url: "https://www.buymeacoffee.com/adityatelange"
+      url: "https://buymeacoffee.com/ConnorTech"
 
 taxonomies:
   category: categories
