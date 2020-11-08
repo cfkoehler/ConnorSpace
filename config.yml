@@ -19,7 +19,7 @@ languages:
       main:
         - name: Photography Site
           url: www.connorphoto.com
-          weight: 20
+          weight: 1
         - name: Blog Archives
           url: /archives/
           weight: 5
