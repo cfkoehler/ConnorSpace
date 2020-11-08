@@ -6,7 +6,7 @@ title = "Connor's Space"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "coder"
+theme = "hugo-PaperMod"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
