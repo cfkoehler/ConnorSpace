@@ -34,19 +34,19 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  name = "Connor"
   email = "youremail@domain.com"
   facebook = "username"
   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   gitlab = "username"
   github = "username"
-  twitter = "username"
+  twitter = "connortech"
   reddit = "username"
   linkedin = "username"
   xing = "username"
   stackoverflow = "users/XXXXXXX/username"
   snapchat = "username"
-  instagram = "username"
+  instagram = "connorkoehler"
   youtube = "user/username" # or channel/channelname
   soundcloud = "username"
   spotify = "username"
