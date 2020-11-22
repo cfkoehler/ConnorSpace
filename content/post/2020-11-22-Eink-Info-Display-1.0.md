@@ -13,7 +13,7 @@ I have been working the last few weeks to make a simple information display that
 - Shows date and day of the week
 - Shows current weather
 - Shows 4 day weather forecast
-- Shows tasks from todoist
+- Shows tasks from Todoist
 - Shows upcoming rocket launches
 - Shows Current US COVID numbers
 - Shows US State COVID numbers
