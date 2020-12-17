@@ -1,8 +1,7 @@
 ---
 title: Time:Calculator Privacy Policy
-layout: "page"
+date: 2020-12-16
 comments: false
-url: "/timeCalcPrivacy"
 ---
 
 ### I do not store your data, period
