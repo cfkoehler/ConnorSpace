@@ -1,48 +1,32 @@
-.main {
-    text-align: center;
-    display: table;
+.buttons,
+.main .profile {
+    display: flex;
+    justify-content: center
 }
 
-.main>.profile {
-    display: table-cell;
-    vertical-align: middle;
+.main .profile {
+    position: absolute;
+    left: 0;
+    right: 0;
+    align-items: center;
+    height: 80%;
+    text-align: center
 }
 
-.main>.profile>.profile_inner {
-    transform: translate(0, -10%);
+.profile .profile_inner h1 {
+    padding: 12px 0
 }
 
-.profile_inner h1 {
-    padding: 12px 0;
-}
-
-.profile_inner span {
-    padding: 10px 0;
-    font-size: 18px;
-}
-
-img {
+.profile img {
     display: inline-table;
-    width: 180px;
     border-radius: 50%;
-    pointer-events: none;
-}
-
-@media screen and (max-width: 600px) {
-    img {
-        width: 150px;
-    }
-    .main>.profile>.profile_inner {
-        transform: translate(0, 0);
-    }
+    pointer-events: none
 }
 
 .buttons {
-    display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     max-width: 400px;
-    margin: 0 auto;
+    margin: 0 auto
 }
 
 .button {
@@ -50,13 +34,13 @@ img {
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
-    transition: transform 0.1s;
+    transition: transform .1s
 }
 
 .button-inner {
-    padding: 0 8px;
+    padding: 0 8px
 }
 
 .button:active {
-    transform: scale(0.96);
+    transform: scale(.96)
 }
