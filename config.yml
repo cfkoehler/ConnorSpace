@@ -25,10 +25,10 @@ languages:
           weight: 5
         - name: Tags
           url: /tags/
-          weight: 10
+          weight: 6
         - name: TimeCalc
           url:/timecalc/
-          weight: 15
+          weight: 7
 
 params:
   env: production
