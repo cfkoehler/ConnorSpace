@@ -27,7 +27,7 @@ languages:
           url: /tags/
           weight: 6
         - name: timeCalc
-          url: /timecalc/
+          url: /TimeCalc/
           weight: 7
 
 
