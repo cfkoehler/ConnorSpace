@@ -1,6 +1,7 @@
 ---
 title: E-Ink Information display 1.0 Publish
 date: 2020-11-22
+tags: ["Software Development", "Open Source"]
 ---
 
 ![Information Display](https://github.com/ConnorKoehler/E-PiInfoDisplay/raw/main/Display.jpg)
