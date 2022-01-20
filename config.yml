@@ -1,7 +1,7 @@
 baseURL: "https://connortech.me"
 title: Connor's Space
 paginate: 8
-theme: hugo-PaperMod
+theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
