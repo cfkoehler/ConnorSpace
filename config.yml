@@ -61,20 +61,20 @@ params:
       Welcome to my space! Just a simple website to share my random thoughts and projects I am working on.
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/ConnorTech"
+    # - name: twitter
+    #   url: "https://twitter.com/ConnorTech"
     - name: adobestock
       url: "https://stock.adobe.com/contributor/204687735/Connor"
     - name: instagram
       url: "https://www.instagram.com/connorkoehler/"
     - name: youtube
       url: "https://www.youtube.com/channel/UCuc0tRKTs867Crd2QH4gCag"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/conradkoehler/"
+    # - name: linkedin
+    #   url: "https://www.linkedin.com/in/conradkoehler/"
     - name: github
       url: "https://github.com/ConnorKoehler"
-    - name: buymeacoffee
-      url: "https://buymeacoffee.com/ConnorTech"
+    # - name: buymeacoffee
+    #   url: "https://buymeacoffee.com/ConnorTech"
 
 taxonomies:
   category: categories
